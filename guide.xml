@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="AMÉRICA">
+    <display-name lang="es">AMÉRICA</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20210218000000 -0300" stop="20210218010000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218010000 -0300" stop="20210218020000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218020000 -0300" stop="20210218030000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218030000 -0300" stop="20210218040000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218040000 -0300" stop="20210218050000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218050000 -0300" stop="20210218053000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210218053000 -0300" stop="20210218060000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210218060000 -0300" stop="20210218070000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218070000 -0300" stop="20210218080000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218080000 -0300" stop="20210218120000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218120000 -0300" stop="20210218130000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F12</title>
+  </programme>
+  <programme start="20210218130000 -0300" stop="20210218144500 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F90</title>
+  </programme>
+  <programme start="20210218144500 -0300" stop="20210218165500 -0300" channel="ESPN 2">
+    <title lang="es">Real Sociedad (Esp) vs. Manchester United (Ing), Dieciseisavos de final</title>
+  </programme>
+  <programme start="20210218165500 -0300" stop="20210218190000 -0300" channel="ESPN 2">
+    <title lang="es">Benfica (Por) vs. Arsenal (Ing), Dieciseisavos de final</title>
+  </programme>
+  <programme start="20210218190000 -0300" stop="20210218210000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F90</title>
+  </programme>
+  <programme start="20210218210000 -0300" stop="20210218230000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218230000 -0300" stop="20210218230000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F Show</title>
+  </programme>
+  <programme start="20210218230000 -0300" stop="20210219000000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F Show</title>
+  </programme>
+  <programme start="20210219000000 -0300" stop="20210219010000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210219010000 -0300" stop="20210219020000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210219020000 -0300" stop="20210219030000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210219030000 -0300" stop="20210219040000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210219040000 -0300" stop="20210219050000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210219050000 -0300" stop="20210219060000 -0300" channel="ESPN 2">
+    <title lang="es">Simplemente fútbol</title>
+  </programme>
+  <programme start="20210219060000 -0300" stop="20210219070000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210219070000 -0300" stop="20210219080000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210219080000 -0300" stop="20210219120000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210219120000 -0300" stop="20210219130000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F12</title>
+  </programme>
+  <programme start="20210219130000 -0300" stop="20210219150000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F90</title>
+  </programme>
+  <programme start="20210219150000 -0300" stop="20210219165000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F360</title>
+  </programme>
+  <programme start="20210219165000 -0300" stop="20210219190000 -0300" channel="ESPN 2">
+    <title lang="es">Wolverhampton vs. Leeds, Fecha 25, Molineux Stadium</title>
+  </programme>
+  <programme start="20210219190000 -0300" stop="20210219210000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN F90</title>
+  </programme>
+  <programme start="20210219210000 -0300" stop="20210219230000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210218004500 -0300" stop="20210218010000 -0300" channel="AMÉRICA">
+    <title lang="es">El rincón de Estelita</title>
+  </programme>
+  <programme start="20210218010000 -0300" stop="20210218023000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20210218023000 -0300" stop="20210218043000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20210218043000 -0300" stop="20210218054500 -0300" channel="AMÉRICA">
+    <title lang="es">Informados de todo</title>
+  </programme>
+  <programme start="20210218054500 -0300" stop="20210218064500 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+  <programme start="20210218064500 -0300" stop="20210218090000 -0300" channel="AMÉRICA">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+  <programme start="20210218090000 -0300" stop="20210218110000 -0300" channel="AMÉRICA">
+    <title lang="es">BDA Extra</title>
+  </programme>
+  <programme start="20210218110000 -0300" stop="20210218133000 -0300" channel="AMÉRICA">
+    <title lang="es">Informados de todo</title>
+  </programme>
+  <programme start="20210218133000 -0300" stop="20210218160000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20210218160000 -0300" stop="20210218180000 -0300" channel="AMÉRICA">
+    <title lang="es">Fantino a la tarde</title>
+  </programme>
+  <programme start="20210218180000 -0300" stop="20210218200000 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias 2da. edición</title>
+  </programme>
+  <programme start="20210218200000 -0300" stop="20210218213000 -0300" channel="AMÉRICA">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20210218213000 -0300" stop="20210218233000 -0300" channel="AMÉRICA">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20210218233000 -0300" stop="20210218233000 -0300" channel="AMÉRICA">
+    <title lang="es">Los Mammones</title>
+  </programme>
+  <programme start="20210218233000 -0300" stop="20210219004500 -0300" channel="AMÉRICA">
+    <title lang="es">Los Mammones</title>
+  </programme>
+  <programme start="20210219004500 -0300" stop="20210219010000 -0300" channel="AMÉRICA">
+    <title lang="es">El rincón de Estelita</title>
+  </programme>
+  <programme start="20210219010000 -0300" stop="20210219023000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20210219023000 -0300" stop="20210219043000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20210219043000 -0300" stop="20210219054500 -0300" channel="AMÉRICA">
+    <title lang="es">Informados de todo</title>
+  </programme>
+  <programme start="20210219054500 -0300" stop="20210219064500 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+  <programme start="20210219064500 -0300" stop="20210219090000 -0300" channel="AMÉRICA">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+  <programme start="20210219090000 -0300" stop="20210219110000 -0300" channel="AMÉRICA">
+    <title lang="es">BDA Extra</title>
+  </programme>
+  <programme start="20210219110000 -0300" stop="20210219133000 -0300" channel="AMÉRICA">
+    <title lang="es">Informados de todo</title>
+  </programme>
+  <programme start="20210219133000 -0300" stop="20210219160000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20210219160000 -0300" stop="20210219180000 -0300" channel="AMÉRICA">
+    <title lang="es">Fantino a la tarde</title>
+  </programme>
+  <programme start="20210219180000 -0300" stop="20210219200000 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias 2da. edición</title>
+  </programme>
+  <programme start="20210219200000 -0300" stop="20210219213000 -0300" channel="AMÉRICA">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20210219213000 -0300" stop="20210219233000 -0300" channel="AMÉRICA">
+    <title lang="es">Intratables</title>
+  </programme>
+</tv>
