@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,RTK 1 HD
+http://146.59.19.1/5002/mpegts
+#EXTINF:-1,RTSH HD
+http://146.59.19.1/5001/mpegts
+#EXTINF:-1,MRT 2 HD
+http://146.59.19.1/5003/mpegts
+#EXTINF:-1,Vizion Plus HD
+http://146.59.19.1/5004/mpegts
+#EXTINF:-1,Rrokum HD
+http://146.59.19.1/5005/mpegts
+#EXTINF:-1,Ora News
+http://146.59.19.1/5006/mpegts
+#EXTINF:-1,7 News
+http://146.59.19.1/5007/mpegts
+#EXTINF:-1,08 HD
+http://146.59.19.1/5008/mpegts
+#EXTINF:-1,RTK 3 HD
+http://146.59.19.1/5009/mpegts
+#EXTINF:-1,RTK 4 HD
+http://146.59.19.1/5010/mpegts
+#EXTINF:-1,Tring Living HD
+http://146.59.19.1/5011/mpegts
+#EXTINF:-1,Tring 3 Plus
+http://146.59.19.1/5013/mpegts
